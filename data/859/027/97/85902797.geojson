@@ -226,7 +226,8 @@
         85676035,
         102191569,
         85632509,
-        1108697113
+        1108697113,
+        9895008395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -245,6 +246,7 @@
             "country_id":85632509,
             "county_id":1108697113,
             "locality_id":-1,
+            "macroregion_id":9895008395,
             "neighbourhood_id":85902797,
             "region_id":85676035
         }
@@ -253,7 +255,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1794999722,
+    "wof:lastmodified":1795733694,
     "wof:name":"San Juan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
